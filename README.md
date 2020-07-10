@@ -1,4 +1,5 @@
-[]("image.jpeg")
+<img src="./WhatsApp Image 2020-07-10 at 11.27.31.jpeg">
+
 ### Hi there 👋
 
 I'm Debojyoti Chakraborty, a student who want to learn something new & experiences.I love to do competitive programming
