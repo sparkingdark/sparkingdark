@@ -1,4 +1,4 @@
-<img src="./WhatsApp Image 2020-07-10 at 11.27.31.jpeg">
+<img src="https://github.com/sparkingdark/sparkingdark/blob/master/WhatsApp%20Image%202020-07-10%20at%2011.27.31.jpeg">
 
 ### Hi there 👋
 
