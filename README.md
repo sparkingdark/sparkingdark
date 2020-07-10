@@ -1,3 +1,4 @@
+[]("image.jpeg")
 ### Hi there 👋
 
 I'm Debojyoti Chakraborty, a student who want to learn something new & experiences.I love to do competitive programming
@@ -13,3 +14,4 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a philatelist.
 
+More about me:😉 [Debo's website](https://myexpindark.me/)
