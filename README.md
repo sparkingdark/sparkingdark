@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sparkingdark/sparkingdark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Debojyoti Chakraborty, a student who want to learn something new & experiences.I love to do competitive programming
+and ML tasks.I am currently a mentor in uplift project by girlscript and a team member of winner team in LATAM hackathon by MIT.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a visualisation dashboard
+- 🌱 I’m currently learning Machine learning
+- 👯 I’m looking to collaborate on opensource projects
+- 🤔 I’m looking for help with my competitive programming skills.
+- 💬 Ask me about ML,Web
+- 📫 How to reach me: sparkingdebo@protonmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a philatelist.
+
