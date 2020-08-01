@@ -1,4 +1,4 @@
-<img src="https://github.com/sparkingdark/sparkingdark/blob/master/WhatsApp%20Image%202020-07-10%20at%2011.27.31.jpeg" style="width:150px; height:150px; align:left;">
+[<img src="https://github.com/sparkingdark/sparkingdark/blob/master/WhatsApp%20Image%202020-07-10%20at%2011.27.31.jpeg" width:"150px">][]
 
 ### Hi there Debojyoti Chakraborty aka [Darkdebo][website] 👋👋
 
