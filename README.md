@@ -35,7 +35,11 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [Vadalin Full stack web Development framework in Java](https://www.youtube.com/watch?v=OYmAmih2Dog)
+- [Nuxt.js A intuitive framework Vue](https://www.youtube.com/watch?v=JpVGcWTPyFk)
+- [CSS framework:Ivory CSS review](https://www.youtube.com/watch?v=ShpgCmTbLnM)
+- [C++ array operations using stl Codeforces](https://www.youtube.com/watch?v=IM-mfFmwiYE)
+- [Codechef caravans problem discussion](https://www.youtube.com/watch?v=UXIEeYRTP5Q)
 <!-- YOUTUBE:END -->
 
 ---
