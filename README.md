@@ -46,7 +46,10 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [IN DEPTH OF Faceapp](https://medium.com/analytics-vidhya/in-depth-of-faceapp-a08be9fe86f6?source=rss-1e843088d95b------2)
+- [Let’s activate:) your activation(function) in Deep learning](https://medium.com/analytics-vidhya/lets-activate-your-activation-function-in-deep-learning-c6f715bcbe57?source=rss-1e843088d95b------2)
+- [Deep Learning:Not very Deep](https://medium.com/analytics-vidhya/deep-learning-not-very-deep-73bb5d5ebdca?source=rss-1e843088d95b------2)
+- [It’s Smelly:Smell in Code](https://medium.com/@debomastet335/its-smelly-smell-in-code-40bbc01444c6?source=rss-1e843088d95b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
