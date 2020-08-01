@@ -51,7 +51,6 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ---
 
-<img align="left" alt="sparkingdark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sparkingdark&show_icons=true&hide_border=true" />
 
 [website]: https://myexpindark.me
 [twitter]: https://twitter.com/sparkindebo
