@@ -44,6 +44,7 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero shot learning what I learn](https://medium.com/@debomastet335/zero-shot-learning-what-i-learn-94862aeb63a7?source=rss-1e843088d95b------2)
 - [IN DEPTH OF Faceapp](https://medium.com/analytics-vidhya/in-depth-of-faceapp-a08be9fe86f6?source=rss-1e843088d95b------2)
 - [Let’s activate:) your activation(function) in Deep learning](https://medium.com/analytics-vidhya/lets-activate-your-activation-function-in-deep-learning-c6f715bcbe57?source=rss-1e843088d95b------2)
 - [Deep Learning:Not very Deep](https://medium.com/analytics-vidhya/deep-learning-not-very-deep-73bb5d5ebdca?source=rss-1e843088d95b------2)
