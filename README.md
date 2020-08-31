@@ -33,11 +33,11 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Let's Know About Cyber Security-A Interview with Sayanta Sen,Cyber Security Expert](https://www.youtube.com/watch?v=ypitdOT4Wok)
 - [C++ vector Operations in Easy Way](https://www.youtube.com/watch?v=JlDfnu4v9Qw)
 - [Binary search explanation over linear search](https://www.youtube.com/watch?v=qfp47UKP0Fw)
 - [Top 10 web development blogs in 2020](https://www.youtube.com/watch?v=17CTLveOnRs)
 - [Vadalin Full stack web Development framework in Java](https://www.youtube.com/watch?v=OYmAmih2Dog)
-- [Nuxt.js A intuitive framework Vue](https://www.youtube.com/watch?v=JpVGcWTPyFk)
 <!-- YOUTUBE:END -->
 
 ---
