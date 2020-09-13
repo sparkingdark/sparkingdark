@@ -33,11 +33,11 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Linux Mint Review](https://www.youtube.com/watch?v=j0XoweCUqbM)
 - [Learning easy Linux commands](https://www.youtube.com/watch?v=Ee3YynCRd9U)
 - [Let's Know About Cyber Security-A Interview with Sayanta Sen,Cyber Security Expert](https://www.youtube.com/watch?v=ypitdOT4Wok)
 - [C++ vector Operations in Easy Way](https://www.youtube.com/watch?v=JlDfnu4v9Qw)
 - [Binary search explanation over linear search](https://www.youtube.com/watch?v=qfp47UKP0Fw)
-- [Top 10 web development blogs in 2020](https://www.youtube.com/watch?v=17CTLveOnRs)
 <!-- YOUTUBE:END -->
 
 ---
