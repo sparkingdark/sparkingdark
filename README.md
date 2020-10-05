@@ -1,3 +1,5 @@
+<img src="https://github.com/sparkingdark/sparkingdark/blob/master/WhatsApp%20Image%202020-07-10%20at%2011.27.31.jpeg" width="220px" align="right">
+
 ### Hi there Debojyoti Chakraborty aka [Darkdebo][website] 👋👋
 
 I'm Debojyoti Chakraborty, a student who want to learn something new & experiences.I love to do competitive programming
