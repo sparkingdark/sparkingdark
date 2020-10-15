@@ -72,5 +72,5 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 [linkedin]: https://www.linkedin.com/in/debojyoti-chakraborty-91b111151/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkingdark&layout=compact" alt="sparkingdark" /></p>
-<img align="left" alt="sparkingdark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sparkingdark&show_icons=true" />
+<p><img align="left" alt="sparkingdark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sparkingdark&show_icons=true" /></p>
 
