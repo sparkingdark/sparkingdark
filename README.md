@@ -44,11 +44,11 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Top 6 Beginner Friendly Linux Distro in 2020](https://www.youtube.com/watch?v=U1ygSLFcQ3I)
 - [Leetcode today solved problem simple number II](https://www.youtube.com/watch?v=AqpQTRVo3_Q)
 - [Project Baby X](https://www.youtube.com/watch?v=7VFpP3-WgGk)
 - [Awesome Resource list for AI and Machine Learning Check this](https://www.youtube.com/watch?v=0zOoGduJMww)
 - [Debojyoti Chakraborty Live Stream](https://www.youtube.com/watch?v=H1y5c1jdfgk)
-- [Open Library In Javascript - Doing Random Stuff](https://www.youtube.com/watch?v=QaTjXdAYT2A)
 <!-- YOUTUBE:END -->
 
 ---
