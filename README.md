@@ -44,11 +44,11 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Artline  generate sketch line art by machine learning](https://www.youtube.com/watch?v=FvqyuMGAeNU)
 - [Our Categorical Junk Demo Video](https://www.youtube.com/watch?v=_epcJqxSo_U)
 - [Top 6 Beginner Friendly Linux Distro in 2020](https://www.youtube.com/watch?v=U1ygSLFcQ3I)
 - [Leetcode today solved problem simple number II](https://www.youtube.com/watch?v=AqpQTRVo3_Q)
 - [Project Baby X](https://www.youtube.com/watch?v=7VFpP3-WgGk)
-- [Awesome Resource list for AI and Machine Learning Check this](https://www.youtube.com/watch?v=0zOoGduJMww)
 <!-- YOUTUBE:END -->
 
 ---
