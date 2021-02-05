@@ -44,11 +44,11 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [os review video dropping alert](https://www.youtube.com/watch?v=mxdK5PkQZHA)
 - [Debojyoti Chakraborty Live Stream](https://www.youtube.com/watch?v=GzykDgg3Ut0)
 - [Helium a browser automation library](https://www.youtube.com/watch?v=e1vIuTSZ9R0)
 - [Bpytop: Awesome Resource Monitor Application for linux and macos](https://www.youtube.com/watch?v=w9pRZ6YJ7Kw)
 - [Artline  generate sketch line art by machine learning](https://www.youtube.com/watch?v=FvqyuMGAeNU)
-- [Our Categorical Junk Demo Video](https://www.youtube.com/watch?v=_epcJqxSo_U)
 <!-- YOUTUBE:END -->
 
 ---
