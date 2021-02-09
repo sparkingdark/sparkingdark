@@ -5,6 +5,8 @@
 I'm Debojyoti Chakraborty, a student who want to learn something new & experiences.I love to do competitive programming
 and ML tasks.I am currently a mentor in uplift project by girlscript and a team member of winner team in LATAM hackathon by MIT.
 
+**My github Resume can be found**:http://resume.github.io/?sparkingdark
+
 
 - 🔭 I’m currently working on a visualisation dashboard
 - 🌱 I’m currently learning Machine learning
