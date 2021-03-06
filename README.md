@@ -46,11 +46,11 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Hellow](https://www.youtube.com/watch?v=mOasqnalkuE)
 - [Solus Budgie : ) Here is the Review](https://www.youtube.com/watch?v=vkVfb_VuD2E)
 - [Ubuntu Budgie Review Easy and Fluent: )](https://www.youtube.com/watch?v=mHzfjaKOQ_Q)
 - [os review video dropping alert](https://www.youtube.com/watch?v=mxdK5PkQZHA)
 - [Debojyoti Chakraborty Live Stream](https://www.youtube.com/watch?v=GzykDgg3Ut0)
+- [Helium a browser automation library](https://www.youtube.com/watch?v=e1vIuTSZ9R0)
 <!-- YOUTUBE:END -->
 
 ---
