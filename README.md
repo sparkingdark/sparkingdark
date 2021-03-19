@@ -57,9 +57,9 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Hub:>Activeloop A tale of Uploading Pokemon Data](https://medium.com/@debomastet335/exploring-hub-activeloop-a-tale-of-uploading-pokemon-data-568b0028f7b3?source=rss-1e843088d95b------2)
-- [How to use the WiFi in Ubuntu 20.04 using realtek semiconductor 802.11n](https://medium.com/@debomastet335/how-to-use-the-wifi-in-ubuntu-20-04-using-realtek-semiconductor-802-11n-f1516630f09a?source=rss-1e843088d95b------2)
-- [Zero shot learning what I learn](https://medium.com/@debomastet335/zero-shot-learning-what-i-learn-94862aeb63a7?source=rss-1e843088d95b------2)
+- [Exploring Hub:>Activeloop A tale of Uploading Pokemon Data](https://debomastet335.medium.com/exploring-hub-activeloop-a-tale-of-uploading-pokemon-data-568b0028f7b3?source=rss-1e843088d95b------2)
+- [How to use the WiFi in Ubuntu 20.04 using realtek semiconductor 802.11n](https://debomastet335.medium.com/how-to-use-the-wifi-in-ubuntu-20-04-using-realtek-semiconductor-802-11n-f1516630f09a?source=rss-1e843088d95b------2)
+- [Zero shot learning what I learn](https://debomastet335.medium.com/zero-shot-learning-what-i-learn-94862aeb63a7?source=rss-1e843088d95b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
