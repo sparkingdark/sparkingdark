@@ -65,7 +65,7 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 ---
 
 
-[website]: https://myexpindark.me
+[website]: https://sparkingdark.github.io/
 [twitter]: https://twitter.com/sparkindebo
 [youtube]: https://www.youtube.com/channel/UCd_n5m7qZakBtDXY77oBk5Q
 [instagram]: https://instagram.com/darkdebo
