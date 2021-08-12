@@ -46,11 +46,11 @@ and ML tasks.I am currently a mentor in uplift project by girlscript and a team 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Write your First Test in 10 Lines Of Code](https://www.youtube.com/watch?v=T6EN_UIhk0E)
+- [clean clean code 😜](https://www.youtube.com/watch?v=MkLDFEhDJaE)
 - [Awesome Frontend Resources Just for you](https://www.youtube.com/watch?v=HZnDP_t0k8c)
 - [Os module in python Part 1](https://www.youtube.com/watch?v=DBKju-RSI1M)
 - [The future Of Data With Activeloop CEO Davit Buniatyan](https://www.youtube.com/watch?v=ZgmDN1OITQ0)
-- [Solus Budgie : ) Here is the Review](https://www.youtube.com/watch?v=vkVfb_VuD2E)
-- [Ubuntu Budgie Review Easy and Fluent: )](https://www.youtube.com/watch?v=mHzfjaKOQ_Q)
 <!-- YOUTUBE:END -->
 
 ---
